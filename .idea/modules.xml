@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TelegramController/TelegramController.iml" filepath="$PROJECT_DIR$/TelegramController/TelegramController.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TelegramModule/TelegramModule.iml" filepath="$PROJECT_DIR$/TelegramModule/TelegramModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TransmitApp/TransmitApp.iml" filepath="$PROJECT_DIR$/TransmitApp/TransmitApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TransmitCore/TransmitCore.iml" filepath="$PROJECT_DIR$/TransmitCore/TransmitCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VKModule/VKModule.iml" filepath="$PROJECT_DIR$/VKModule/VKModule.iml" />
+    </modules>
+  </component>
+</project>

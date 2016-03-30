@@ -1,0 +1,54 @@
+<component name="libraryTable">
+  <library name="com.github.rubenlagus:TelegramBots:v1.0" type="repository">
+    <properties maven-id="com.github.rubenlagus:TelegramBots:v1.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/TelegramBots-v1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/jersey-container-grizzly2-http-2.22.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/javax.inject-2.4.0-b31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/grizzly-http-server-2.3.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/grizzly-http-2.3.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/grizzly-framework-2.3.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/jersey-common-2.22.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/javax.ws.rs-api-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/javax.annotation-api-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/jersey-guava-2.22.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/hk2-api-2.4.0-b31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/hk2-utils-2.4.0-b31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/aopalliance-repackaged-2.4.0-b31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/hk2-locator-2.4.0-b31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/javassist-3.18.1-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/osgi-resource-locator-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/jersey-server-2.22.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/jersey-client-2.22.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/jersey-media-jaxb-2.22.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/validation-api-1.1.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/jersey-media-json-jackson-2.22.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/jersey-entity-filtering-2.22.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/jackson-jaxrs-base-2.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/jackson-core-2.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/jackson-databind-2.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/jackson-annotations-2.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/jackson-jaxrs-json-provider-2.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/jackson-module-jaxb-annotations-2.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/jersey-bundle-1.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/jsr311-api-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/jersey-grizzly2-servlet-1.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/grizzly-http-servlet-2.2.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/jersey-grizzly2-1.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/jersey-server-1.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/jersey-core-1.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/javax.servlet-api-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/jersey-servlet-1.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/json-20151123.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/httpclient-4.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/httpcore-4.4.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/commons-codec-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TelegramModule/lib/httpmime-4.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/TelegramModule/lib/TelegramBots-master/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
